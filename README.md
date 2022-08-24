@@ -13,9 +13,9 @@ sklearn
 
 transformers 4.8.1
 
-## 预训练 BERT 模型
+## 预训练模型
 
-[https://huggingface.co/bert-base-chinese/tree/main](https://huggingface.co/bert-base-uncased/tree/main)
+下载地址：[https://huggingface.co/bert-base-chinese/tree/main](https://huggingface.co/bert-base-uncased/tree/main)
 
 ## 模型训练
 ```
