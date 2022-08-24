@@ -1,6 +1,5 @@
-# bert_text_classification
-
-基于 BERT 模型的中文文本分类工具。
+# bert_classification_VUA
+基于BERT_base预训练模型的英文隐喻二分类
 
 ## 环境
 
